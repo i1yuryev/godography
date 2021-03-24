@@ -2,8 +2,10 @@
 
 # Technologies used: 
   1.matplotlib - visualisation
-  2.numpy - computations
-  3.tkinter - GUI
+  
+  3.numpy - computations
+  
+  5.tkinter - GUI
 
 # Usage instruction: 
   1. Install the required libraries using pip (see above).
